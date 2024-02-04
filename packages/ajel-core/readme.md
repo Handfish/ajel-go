@@ -16,9 +16,9 @@
 
 ### Installation
 
-`yarn add ajel eslint-plugin-ajel`
+`yarn add ajel-go eslint-plugin-ajel-go`
 
-`pnpm add ajel eslint-plugin-ajel`
+`pnpm add ajel-go eslint-plugin-ajel-go`
 
 
 ### Example usage

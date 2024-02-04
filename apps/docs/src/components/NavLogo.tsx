@@ -15,7 +15,7 @@ export default function NavLogo() {
         style={{ height: "calc(var(--nextra-navbar-height) - 35px)" }}
         alt="ajel logo"
       />
-      ajel
+      ajel-go
     </div>
   );
 }
