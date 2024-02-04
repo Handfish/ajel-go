@@ -3,7 +3,7 @@
 Personally - I recommend using [ajel](https://github.com/Handfish/ajel) instead.
 [Follow this link to see the new api.](https://github.com/Handfish/ajel)
 
-<p align="center"><a href="https://github.com/Handfish/ajel-go" target="_blank"><img src="https://raw.githubusercontent.com/Handfish/ajel-go/main/apps/docs/public/ajel2.svg" width="100"><a href="https://github.com/Handfish/ajel-go" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Black.svg" width="100"></a></p>
+<p align="center"><a href="https://github.com/Handfish/ajel-go" target="_blank"><img src="https://raw.githubusercontent.com/Handfish/ajel-go/main/apps/docs/public/ajel2.svg" width="100"><a href="https://github.com/Handfish/ajel-go" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="100"></a></p>
 
 <p align="center">ajel-go is a <b>312 byte</b> set of functions that encourage you to handle errors in a way that is similar to Golang.</p>
 
