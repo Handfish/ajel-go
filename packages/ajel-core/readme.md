@@ -24,7 +24,7 @@
 ### Example usage
 ```typescript
 // Handling async functions that throw
-import { ajel } from 'ajel';
+import { ajel } from 'ajel-go';
 
 async function main() {
   const [result, err] = await ajel(Promise.resolve('hello world'));

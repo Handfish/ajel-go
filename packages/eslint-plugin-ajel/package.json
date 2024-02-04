@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ajel-go",
-  "version": "0.0.14",
+  "version": "0.0.1",
   "description": "Eslint rules for ajel-go, the library which encourages handling errors similarly to Golang",
   "engines": {
     "node": ">=8.10.0"

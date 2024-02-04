@@ -18,8 +18,8 @@ The `sjel-require-currying` rule provides a clear error that when calling sjel, 
 
 ## Implementation
 
-- [Rule source](https://github.com/Handfish/ajelGo/blob/main/packages/eslint-plugin-ajel/src/rules/sjel-require-currying.ts)
-- [Test source](https://github.com/Handfish/ajelGo/blob/main/packages/eslint-plugin-ajel/tests/rules/sjel-require-currying.ts)
+- [Rule source](https://github.com/Handfish/ajel-go/blob/main/packages/eslint-plugin-ajel/src/rules/sjel-require-currying.ts)
+- [Test source](https://github.com/Handfish/ajel-go/blob/main/packages/eslint-plugin-ajel/tests/rules/sjel-require-currying.ts)
 
 ## Examples
 

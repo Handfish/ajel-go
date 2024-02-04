@@ -14,15 +14,15 @@
 
 ### Installation
 
-`yarn add ajel eslint-plugin-ajel`
+`yarn add ajel eslint-plugin-ajel-go`
 
-`pnpm add ajel eslint-plugin-ajel`
+`pnpm add ajel eslint-plugin-ajel-go`
 
 ### Basic eslintrc
 
 ```javascript
 {
-  plugins: ['ajel'],
+  plugins: ['ajel-go'],
   extends: [
     'plugin:ajel/recommended',
   ],
@@ -33,26 +33,26 @@
 
 ```javascript
 {
-  plugins: ['ajel'],
+  plugins: ['ajel-go'],
   extends: [
     'plugin:ajel/recommended',
   ],
   rules: {
-    'ajelGo/ajel-const-tuples': [
+    'ajel-go/ajel-const-tuples': [
       'error',
       {
         ajelAlias: "blimpy",
         sjelAlias: "limpyb",
       },
     ],
-    'ajelGo/ajel-require-tuple-declaration': [
+    'ajel-go/ajel-require-tuple-declaration': [
       'error',
       {
         ajelAlias: 'blimpy',
         sjelAlias: "limpyb",
       },
     ],
-    'ajelGo/ajel-disable-try-catch': [
+    'ajel-go/ajel-disable-try-catch': [
       'error',
       {
         ajelAlias: 'blimpy',
@@ -64,14 +64,14 @@
         sjelAlias: "limpyb",
       },
     //Use one of the two following rules
-    'ajelGo/ajel-require-error-handling': [
+    'ajel-go/ajel-require-error-handling': [
       'error',
       {
         ajelAlias: 'blimpy',
         sjelAlias: "limpyb",
       },
     ],
-    //'ajelGo/ajel-strict-error-instanceof': [
+    //'ajel-go/ajel-strict-error-instanceof': [
     //  'off',
     //  {
     //    ajelAlias: 'blimpy',

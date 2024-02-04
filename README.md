@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Handfish/ajel-go" target="_blank"><img src="https://raw.githubusercontent.com/Handfish/ajel-go/main/apps/docs/public/ajel2.svg" width="100" alt="Laravel Logo"></a></p>
 
-<p align="center">Ajel is a <b>312 byte</b> set of functions that encourage you to handle errors in a way that is similar to Golang.</p>
+<p align="center">Ajel-go is a <b>312 byte</b> set of functions that encourage you to handle errors in a way that is similar to Golang.</p>
 
 <p align="center">
 <a href="https://www.npmjs.com/ajel" target="_blank"><img src="https://img.shields.io/npm/v/ajel.svg" alt="NPM Version" /></a>
@@ -12,19 +12,19 @@
 
 
 
-# [ajel](https://handfish.github.io/ajel)
+# [ajel-go](https://handfish.github.io/ajel-go)
 
 ### Installation
 
-`yarn add ajel eslint-plugin-ajel`
+`yarn add ajel eslint-plugin-ajel-go`
 
-`pnpm add ajel eslint-plugin-ajel`
+`pnpm add ajel eslint-plugin-ajel-go`
 
 
 ### Example usage
 ```typescript
 // Handling async functions that throw
-import { ajel } from 'ajel';
+import { ajel } from 'ajel-go';
 
 async function main() {
   const [result, err] = await ajel(Promise.resolve('hello world'));
@@ -39,7 +39,7 @@ async function main() {
 
 ```typescript
 // Handling synchronous functions that throw
-import { sjel } from 'ajel';
+import { sjel } from 'ajel-go';
 
 function main() {
   const [result, err] = sjel(JSON.parse)("{}");
@@ -61,9 +61,9 @@ More interestingly, it comes with a series of linting tools to help enforce the 
 
 ```javascript
 {
-  plugins: ['ajel'],
+  plugins: ['ajel-go'],
   extends: [
-    'plugin:ajel/recommended',
+    'plugin:ajel-go/recommended',
   ],
 }
 ```
@@ -75,4 +75,4 @@ More interestingly, it comes with a series of linting tools to help enforce the 
 - `docs`: A placeholder documentation site powered by [Next.js](https://nextjs.org/)
 - `ajel`: The core library (function)
 - `eslint-plugin-ajel`: Eslint rules for proper usage and error handling paradigm
-- `benchmarks`: Testing ajel's performance against other methods
+- `benchmarks`: Testing ajel-go's performance against other methods

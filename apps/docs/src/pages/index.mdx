@@ -15,7 +15,7 @@ Ajel is a **312 byte** set of functions that encourage you to handle errors in a
 
 ```typescript
 // Handling async functions that throw
-import { ajel } from 'ajel';
+import { ajel } from 'ajel-go';
 
 async function main() {
   const [result, err] = await ajel(Promise.resolve('hello world'));
@@ -30,7 +30,7 @@ async function main() {
 
 ```typescript
 // Handling synchronous functions that throw
-import { sjel } from 'ajel';
+import { sjel } from 'ajel-go';
 
 function main() {
   const [result, err] = sjel(JSON.parse)("{}");
