@@ -3,9 +3,9 @@
 Personally - I recommend using [ajel](https://www.npmjs.com/ajel) instead.
 [Follow this link to see the new api.](https://www.npmjs.com/ajel)
 
-<p align="center"><a href="https://github.com/Handfish/ajel-go" target="_blank"><img src="https://raw.githubusercontent.com/Handfish/ajel-go/main/apps/docs/public/ajel2.svg" width="100" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://github.com/Handfish/ajel-go" target="_blank"><img src="https://raw.githubusercontent.com/Handfish/ajel-go/main/apps/docs/public/ajel2.svg" width="100"><a href="https://github.com/Handfish/ajel-go" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Black.svg" width="100"></a></p>
 
-<p align="center">Ajel is a <b>312 byte</b> set of functions that encourage you to handle errors in a way that is similar to Golang.</p>
+<p align="center">ajel-go is a <b>312 byte</b> set of functions that encourage you to handle errors in a way that is similar to Golang.</p>
 
 <p align="center">
 <a href="https://www.npmjs.com/ajel-go" target="_blank"><img src="https://img.shields.io/npm/v/ajel-go.svg" alt="NPM Version" /></a>
