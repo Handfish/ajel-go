@@ -1,18 +1,23 @@
+## DEPRECATED
+
+Personally - I recommend using [ajel](https://www.npmjs.com/ajel) instead.
+[Follow this link to see the new api.](https://www.npmjs.com/ajel)
+
 <p align="center"><a href="https://github.com/Handfish/ajel-go" target="_blank"><img src="https://raw.githubusercontent.com/Handfish/ajel-go/main/apps/docs/public/ajel2.svg" width="100" alt="Laravel Logo"></a></p>
 
 <p align="center">Ajel is a <b>312 byte</b> set of functions that encourage you to handle errors in a way that is similar to Golang.</p>
 
 <p align="center">
-<a href="https://www.npmjs.com/ajel" target="_blank"><img src="https://img.shields.io/npm/v/ajel.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/ajel" target="_blank"><img src="https://img.shields.io/npm/l/ajel.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/ajel" target="_blank"><img src="https://img.shields.io/npm/dt/ajel.svg" alt="NPM Downloads" /></a>
-<a href="https://handfish.github.io/ajel" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /></a>
+<a href="https://www.npmjs.com/ajel-go" target="_blank"><img src="https://img.shields.io/npm/v/ajel-go.svg" alt="NPM Version" /></a>
+<a href="https://www.npmjs.com/ajel-go" target="_blank"><img src="https://img.shields.io/npm/l/ajel-go.svg" alt="Package License" /></a>
+<a href="https://www.npmjs.com/ajel-go" target="_blank"><img src="https://img.shields.io/npm/dt/ajel-go.svg" alt="NPM Downloads" /></a>
+<a href="https://handfish.github.io/ajel-go" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /></a>
 <a href="https://github.com/Handfish/ajel-go" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 
 
-# [ajel](https://handfish.github.io/ajel)
+# [ajel-go](https://handfish.github.io/ajel-go)
 
 ### Installation
 
